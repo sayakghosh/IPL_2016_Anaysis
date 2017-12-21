@@ -1,0 +1,12 @@
+CvC Probability is computed using Mapper - Reducer through Hadoop.
+
+Batsman vs Bowler data along with their clusters is uploaded to HDFS and MR is used to compute 'cvcstat'.
+
+We use 'cvcstat' to compute Cluster vs Cluster probabilites.
+
+We calculate Player vs Player probabilities by using Player vs Player data.
+
+Order to run:
+probcount.java
+cvcprobabilities.py
+PvPProb.py
