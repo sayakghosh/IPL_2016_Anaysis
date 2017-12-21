@@ -1,5 +1,5 @@
 # IPL_Anaysis
-IPL Analysis using Big Data techniques.
+IPL 2016 Match Analysis using Big Data techniques.
 
 # Player Data Scraper
 Run both the scrapper python codes to scrap the CricInfo page.
