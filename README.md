@@ -1,4 +1,4 @@
-# IPL_Anaysis
+# IPL_2016_Anaysis
 IPL 2016 Match Analysis using Big Data techniques.
 
 # Player Data Scraper
