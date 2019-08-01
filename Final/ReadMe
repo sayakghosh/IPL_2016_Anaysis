@@ -1,6 +1,6 @@
 Connect the data files with the correct path in predict_match.
 
-Put correct path the input files.
+Put correct path in the input files.
 
 Run it like a normal python code - python predict_match.py
 
