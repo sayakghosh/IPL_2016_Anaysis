@@ -2,7 +2,7 @@
 IPL 2016 Match Analysis using Big Data techniques.
 
 # Player Data Scraper
-Run both the scrapper python codes to scrap the CricInfo page.
+Run both the scrapper python codes to scrape the CricInfo pages.
 Two CSV files would be created.
 One each for batsmen and bowlers.
 
